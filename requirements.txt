@@ -1,6 +1,7 @@
 asgiref==3.3.4
 autopep8==1.5.7
 Django==3.2.3
+django-filter==2.4.0
 djangorestframework==3.12.4
 psycopg2==2.8.6
 pycodestyle==2.7.0
