@@ -1,5 +1,14 @@
+# VSCode Config
+.vscode
+
 # Virtual environment
 env
 
-# VSCode Config
-.vscode
+# Environment Variables
+.env*
+
+# SQLite3
+db.sqlite3
+
+# Python Cache
+__pycache__*
