@@ -6,6 +6,7 @@ env
 
 # Environment Variables
 .env*
+!.env.example
 
 # SQLite3
 db.sqlite3
