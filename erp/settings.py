@@ -47,6 +47,9 @@ INSTALLED_APPS = [
 
     # Thirdparty packages
     'django_filters',
+
+    # Apps
+    'erp.inventory',
 ]
 
 MIDDLEWARE = [
